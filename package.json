@@ -1,5 +1,5 @@
 {
-  "name": "@advisr/pptx-compose",
+  "name": "@advisr/pptx-compose-2",
   "version": "1.0.1",
   "description": "PPTX parser to JSON format",
   "main": "lib/index.js",
