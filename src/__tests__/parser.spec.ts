@@ -18,6 +18,6 @@ describe("PPTX Compose Parser", () => {
     const files = Object.keys(jszip.files);
 
     expect(files.length).toBe(1);
-    expect(jszip.file("apple.xml").dir).toBe(false);
+    expect(jszip.file("apple.xml")!.dir).toBe(false);
   });
 });
