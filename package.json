@@ -1,6 +1,6 @@
 {
-  "name": "pptx-compose",
-  "version": "0.4.0",
+  "name": "@advisr/pptx-compose",
+  "version": "0.4.1",
   "description": "PPTX parser to JSON format",
   "main": "lib/index.js",
   "bin": "lib/index.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shobhitsharma/pptx-compose.git"
+    "url": "git+https://github.com/advisr-io/pptx-compose.git"
   },
   "keywords": [
     "pptx",
@@ -35,9 +35,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shobhitsharma/pptx-compose/issues"
+    "url": "https://github.com/advisr-io/pptx-compose/issues"
   },
-  "homepage": "https://github.com/shobhitsharma/pptx-compose#readme",
+  "homepage": "https://github.com/advisr-io/pptx-compose#readme",
   "dependencies": {
     "commander": "5.1.0",
     "jszip": "3.7.1",
