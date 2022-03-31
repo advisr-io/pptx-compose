@@ -39,9 +39,9 @@
   },
   "homepage": "https://github.com/advisr-io/pptx-compose#readme",
   "dependencies": {
-    "commander": "5.1.0",
-    "jszip": "3.7.1",
-    "xml2js": "0.4.23"
+    "commander": "^5.1.0",
+    "jszip": "^3.8.0",
+    "xml2js": "^0.4.23"
   },
   "devDependencies": {
     "@semantic-release/git": "^9.0.0",
