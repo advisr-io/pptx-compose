@@ -1,6 +1,6 @@
 {
   "name": "@advisr/pptx-compose-2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "PPTX parser to JSON format",
   "main": "lib/index.js",
   "bin": "lib/index.js",
